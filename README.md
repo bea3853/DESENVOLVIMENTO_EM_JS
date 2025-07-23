@@ -1,80 +1,75 @@
-# DESENVOLVIMENTO_EM_JS 😜
+# 🚀 Curso de Desenvolvimento JavaScript Básico
 
-# Curso Básico de Desenvolvimento em JavaScript
+Este curso foi criado para introduzir os principais conceitos de **desenvolvimento web com JavaScript**, abordando desde a estrutura básica de páginas HTML e estilização com CSS até a programação em JavaScript e conceitos de design.
 
-## 📝 Descrição
-Este curso oferece uma introdução abrangente ao desenvolvimento web com foco em JavaScript. O programa começa com conceitos fundamentais de UI/UX e HTML/CSS, avança para os princípios do JavaScript e culmina na integração de todas essas tecnologias em um projeto prático.
+## 📚 Conteúdo Programático
 
-## 📚 Ementa do Curso
+### 🔤 Fundamentos da Web
 
-### 🏗️ Fundamentos
-- **AULA 1**: Levantamento de Requisitos
-- **AULA 2**: Princípios de Design UI
-- **AULA 3**: Princípios de Design UX
+* **AULA 1:** Linguagem de marcação e estilo
+* **AULA 2:** Linguagem de marcação e estilo II - Tabelas e Formulários
+* **AULA 3:** HTML Avançado - Imagens, Vídeos e Áudio
 
-### 🌐 HTML & CSS
-- **AULA 4**: Linguagem de marcação e estilo (Básico)
-- **AULA 5**: Tabelas e Formulários
-- **AULA 6**: Trabalhando com Imagens, Vídeos e Links
-- **AULA 7**: CSS Avançado
-- **AULA 8**: Frameworks CSS
+### 🎨 Estilização com CSS
 
-### 🔄 Controle de Versão
-- **AULA 9**: Git e Versionamento
+* **AULA 4:** CSS - Introdução
+* **AULA 10:** CSS Avançado
 
-### 💻 JavaScript Básico
-- **AULA 10**: Introdução ao JavaScript
-- **AULA 11**: Variáveis e Operadores
-- **AULA 12**: Condicionais
-- **AULA 13**: Loops
-- **AULA 14**: Funções
+### 💻 Programação com JavaScript
 
-### 📚 JavaScript Avançado
-- **AULA 16**: Bibliotecas JavaScript
-- **AULA 17**: Manipulação de Arquivos
+* **AULA 11:** Variáveis e Operadores
+* **AULA 12:** Condicionais
+* **AULA 14:** Funções
+* **AULA 13:** Laços (Loops)
+* **AULA 15:** Programação Orientada a Objetos (POO)
 
-### 🌐 Integração Front-end
-- **AULA 18**: JavaScript + HTML
-- **AULA 19**: Integração Completa (HTML + CSS + JS)
+### 🧠 Design e Experiência do Usuário
 
-### 🏁 Projeto Final
-- **AULA 20**: Desenvolvimento de Projeto Prático
+* **AULA 20:** Projeto final
+* **AULA 16:** Princípios de Design UI
+* **AULA 3:** Princípios de Design UX
 
-## 🎯 Objetivos
-- Dominar os conceitos básicos de desenvolvimento web
-- Aprender a criar páginas web responsivas com HTML e CSS
-- Compreender os fundamentos da programação em JavaScript
-- Integrar JavaScript com HTML/CSS para criar aplicações interativas
-- Desenvolver um projeto completo aplicando todos os conceitos aprendidos
+### 🛠️ Ferramentas e Recursos
 
-## 🛠️ Pré-requisitos
-- Noções básicas de informática
-- Acesso a um computador com conexão à internet
-- Editor de código (VS Code, Sublime Text, etc.)
-- Navegador moderno (Chrome, Firefox, Edge)
+* **AULA 8:** Frameworks
+* **AULA 9:** Git e Versionamento
+* **AULA 18:** Integração do JavaScript com HTML
+* **AULA 19:** Integração HTML, CSS e JS
+* **AULA 17:** Manipulação de Arquivos
+* **AULA 11:** Bibliotecas
+* **AULA 1:** Levantamento de Requisitos
 
-## 📅 Duração
-20 aulas (sugestão: 2-3 aulas por semana)
+### 🎓 Projeto Final
 
-## 📂 Estrutura do Repositório
-```
-curso-js-basico/
-├── aulas/          # Materiais de cada aula
-├── exemplos/       # Códigos de exemplo
-├── exercicios/     # Exercícios práticos
-└── projeto-final/  # Arquivos do projeto final
-```
+* **AULA 20:** Desenvolvimento de um projeto prático, colocando em prática todos os conhecimentos adquiridos durante o curso.
 
-## 👨‍🏫 Como Usar
-1. Clone este repositório
-2. Siga a ordem sequencial das aulas
-3. Complete todos os exercícios
-4. Participe ativamente do projeto final
+---
 
-Bons estudos! 🚀
+## ✅ Pré-requisitos
 
-Acesse minha redes:
-instagram  @convexo.tech.b
-youtube    @convexo.tech.b
+Nenhum conhecimento prévio é necessário, mas é recomendado:
 
+* Curiosidade e vontade de aprender
+* Familiaridade básica com computador e navegação web
 
+---
+
+## 🧰 Tecnologias Abordadas
+
+* HTML5
+* CSS3
+* JavaScript
+* Git e GitHub
+* Frameworks front-end (introdução)
+
+---
+
+## 📁 Organização dos Arquivos
+
+Cada aula possui seu próprio conteúdo em pastas organizadas por número e nome da aula, com exemplos, exercícios e materiais de apoio.
+
+---
+
+## 👩‍💻 Autor / Instrutor
+
+Curso desenvolvido por \Beatriz Alves — voltado para iniciantes que desejam entrar no mundo da programação web.
